@@ -1,0 +1,3 @@
+zone,base_price,peak_multiplier,offpeak_multiplier
+Residential,6.5,1.3,0.8
+Commercial,7.0,1.2,0.9
